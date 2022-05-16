@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85434869077",
+    "project_id": "actividad-fdbf4",
+    "storage_bucket": "actividad-fdbf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85434869077:android:fcdffc0dc95fac8b8b3bdc",
+        "android_client_info": {
+          "package_name": "com.example.actividads16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85434869077-nl8msidpfjm7c5m9efau43d6m27dep88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8s-8G9plbLikXr1kx0uIEQzg-2nINjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85434869077-nl8msidpfjm7c5m9efau43d6m27dep88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
